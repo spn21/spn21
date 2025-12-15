@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spn21
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning zkp and blockchain dev
-- 🙆‍♂️ My MetaMask address is 0x003A594540b8a29A74773E29A71E51fE448dfD89 
 - 📫 How to reach me <mouzi2118@gmail.com> <spn1229@163.com>
 
 <!---

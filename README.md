@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @spn21
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning zkp and blockchain dev
+- 👋 Hi, I’m @moumoon/mouyue/spn
+- 👀 I’m interested in Web3, Distributed Systems, Agent and Iot like hardware wallet
+- 🌱 I’m currently as a student in PolyU
 - 📫 How to reach me <mouzi2118@gmail.com> <mouyue_spn@outlook.com>
 
 <!---
